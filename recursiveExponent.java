@@ -1,9 +1,5 @@
 /*
- * Purpose/Description: This program calculates a given number to a given exponent 
- * Author’s Panther ID: 6198722           
- * Certification:    
- * I hereby certify that this work is my own and none of it is the work of    
- * any other person.  
+ * Purpose/Description: This program calculates a given number to a given exponent   
  */
 package assignment1problem3b;
 
